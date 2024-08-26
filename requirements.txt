@@ -1,0 +1,7 @@
+Flask
+Flask-JWT-Extended
+Flask-SQLAlchemy
+Flask-Swagger-UI
+python-dotenv
+psycopg2-binary
+pytest
